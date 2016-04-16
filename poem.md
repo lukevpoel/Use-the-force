@@ -1,7 +1,6 @@
-Cupid's Arrows
+#Cupid's Arrows
 
-    By Rudyard Kipling
-
+_By Rudyard Kipling_
 
 Pit where the buffalo cooled his hide,
 By the hot sun emptied, and blistered and dried;
@@ -12,6 +11,6 @@ Aloe that stabs at the belly and heels,
 Jump if you dare on a steed untried
 Safer it is to go wide-go wide!
 Hark, from in front where the best men ride;
-"Pull to the off, boys! Wide! Go wide!"
+**"Pull to the off, boys! Wide! Go wide!"**
 
 http://www.public-domain-poetry.com/rudyard-kipling/cupids-arrows-3571
